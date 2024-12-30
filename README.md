@@ -1,3 +1,5 @@
-Designed a prototype based on location to recommend suitable hostels and hotels to migrants.
-Collected data on preferences and budgets of different migrants to recommend accordingly.
-Utilized Pandas,Numpy,Matplotlib,Seaborn,Sklearn,Geopy,Folium,Scipy,Minisom libraries.
+- Collected data of preferences and budgets of different migrants to recommend accordingly.
+
+- Developed a prototype based on location to recommend the hostels and hotels to migrants
+
+- Utilized Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Geopy, Folium, Scipy, Minisom libraries.
